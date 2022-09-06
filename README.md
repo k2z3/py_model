@@ -1,1 +1,1 @@
-# py_model - pyccкий tm1_Py
+# py_model - Pyccкий tm1_Py
